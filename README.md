@@ -1,2 +1,6 @@
 # Course-Outline-and-Overview
-This is a course outline and overview
+
+#Welcome to Code the Dream's Fall 2019 React Course
+
+
+
